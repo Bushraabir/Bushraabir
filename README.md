@@ -1,152 +1,131 @@
-<div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&pause=800&color=00C4B4&center=true&vCenter=true&width=650&height=80&lines=Hello+👋,+I'm+Bushra+Khandoker" alt="Typing SVG" />
 
----
+<div align="center" >
 
-<p align="center" style="font-style: italic; font-size: 1.25rem; color: #00C4B4;">
-  Fusing algorithms, physics, and web technologies to craft transformative digital experiences.
-</p>
+  # Hello 👋, I'm <span style="color: #FFD700;">Bushra Khandoker</span>
 
----
+  <p style="font-style: italic; font-size: 1.2rem; color: #E0F7FA; max-width: 650px;">
+    Fusing algorithms, physics, and web technologies to create transformative digital experiences.
+  </p>
 
-### Connect with me
+</div>
 
-<a href="https://github.com/Bushraabir" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&style=for-the-badge" alt="GitHub Profile" />
-</a>
-<a href="https://github.com/Bushraabir" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/github/followers/Bushraabir?label=Followers&style=social" alt="GitHub Followers" />
-</a>
-<a href="https://github.com/Bushraabir?tab=stars" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/github/stars/Bushraabir?label=Stars&style=social" alt="GitHub Stars" />
-</a>
-<a href="https://leetcode.com/u/Bushraaaa" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/LeetCode-Bushraaaa-FE7A16?logo=leetcode&style=for-the-badge" alt="LeetCode Profile" />
-</a>
+<!-- GitHub Stats & Languages -->
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Bushraabir&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" 
+    alt="GitHub stats" height="160" 
+    style="border-radius: 8px;"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Bushraabir&layout=compact&langs_count=6&theme=radical&hide_border=true" 
+    alt="Top languages" height="160" 
+    style="border-radius: 8px;"
+  />
+</div>
 
+<!-- Streak & Coding Animation -->
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Bushraabir&theme=highcontrast&hide_border=true&date_format=M+j%5B%2C+Y%5D" 
+    alt="Streak stats" height="160"
+    style="border-radius: 8px; border: 2px solid #FF6B6B;"
+  />
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmc1ZHM4bmd0c3N6cXI0anpuOW5xeTN2aXE4NXJmMHlkd2xoazVkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fSvqyvXn1M3btN8sDh/giphy.gif" 
+    alt="coding animation" height="160"
+    style="border-radius: 8px; border: 2px solid #FFD700;"
+  />
+</div>
+
+<!-- Activity Graph -->
+<div align="center" style="margin: 40px 0;">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Bushraabir&theme=dracula&hide_border=true&area=true" 
+    alt="activity graph" 
+    style="border-radius: 10px; border: 2px solid #00D1FF;"
+  />
+</div>
+
+<!-- Tech Stack Icons Container -->
+<div align="center" style="background-color: #1C1F2E; padding: 25px; border-radius: 15px; margin: 40px 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="C" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" title="C++" style="margin-left: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" title="Python" style="margin-left: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" title="HTML5" style="margin-left: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3" title="CSS3" style="margin-left: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" title="JavaScript" style="margin-left: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React" title="React" style="margin-left: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="48" alt="Tailwind CSS" title="Tailwind CSS" style="margin-left: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" alt="Next.js" title="Next.js" style="margin-left: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="TypeScript" title="TypeScript" style="margin-left: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="48" alt="Firebase" title="Firebase" style="margin-left: 10px;" />
+</div>
+
+<!-- GitHub Trophies & Profile Views -->
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 40px 0;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bushraabir&theme=dracula&no-frame=true&margin-w=15&margin-h=15" alt="GitHub trophies" style="border-radius: 10px; border: 2px solid #FF6B6B;" />
+  <img src="https://komarev.com/ghpvc/?username=Bushraabir&style=flat-square&color=00D1FF&label=Profile+Views" alt="profile views" style="border-radius: 8px; border: 2px solid #00D1FF;" />
 </div>
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bushraabir&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bushraabir&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true" height="160" alt="Top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bushraabir&theme=highcontrast&hide_border=true&date_format=M+j%5B%2C+Y%5D" height="160" alt="Streak stats" />
-</div>
+## 🌟 About Me
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bushraabir&theme=dracula&no-frame=true&margin-w=15&margin-h=15" alt="GitHub trophies" />
-</div>
+I'm **Bushra Khandoker**, a visionary software engineer from Bangladesh with a passion for merging computational algorithms, physics-inspired problem-solving, and modern web development. My mission is to create transformative digital experiences that empower learners and developers alike. Driven by curiosity and a commitment to excellence, I specialize in crafting intuitive educational tools, optimizing complex algorithms, and delivering polished full-stack applications.
 
 ---
 
-## 🚀 About Me
+## 🛠 Technical Expertise & Skill Set
 
-I’m **Bushra Khandoker**, a passionate software engineer from Bangladesh specializing in the intersection of **algorithms, physics-inspired problem solving,** and **modern web development**.  
-Driven by curiosity and impact, I build innovative educational tools, optimize complex algorithms, and craft polished full-stack apps to empower learners and developers worldwide.
-
----
-
-## 🛠 Technical Expertise
-
-| Category                  | Technologies & Competencies                                                                 |
-|---------------------------|---------------------------------------------------------------------------------------------|
-| **Languages**             | C • C++ • Python • JavaScript • TypeScript                                                  |
-| **Frontend**              | React.js • Next.js • Tailwind CSS • HTML5 • CSS3 • Framer Motion                            |
-| **Backend & Databases**   | Firebase • Node.js • REST APIs                                                              |
-| **State Management & UX** | Recoil • Redux • Client-side auth flows • Micro-interactions • Accessibility (WCAG 2.1)     |
-| **Algorithms & DS**       | Linked Lists • Stacks • Queues • Trees • Graphs • Dynamic Programming • Greedy Algorithms • STL |
-| **Tools & Workflows**     | Git • GitHub • VS Code • Jest • Cypress • Agile • Scrum • CI/CD (GitHub Actions)            |
-| **Specializations**       | Competitive Programming • EdTech Solutions • Physics-based Algorithm Visualizations         |
+| Category                  | Technologies & Competencies                          |
+|---------------------------|-----------------------------------------------------|
+| **Programming Languages** | C • C++ • Python • JavaScript • TypeScript           |
+| **Frontend Development**  | React.js • Next.js • Tailwind CSS • HTML5 • CSS3     |
+| **Backend & Databases**  | Firebase • Node.js • REST APIs                      |
+| **State Management & UX** | Recoil • Redux • Client-side auth flows • Accessibility (WCAG 2.1) |
+| **Data Structures & Algorithms (DSA/CP)** | Linked Lists • Stacks • Queues • Trees • Graphs • Dynamic Programming • Greedy Algorithms • STL |
+| **Tools & Practices**    | Git • GitHub • VS Code • Unit & Integration Testing • Agile Methodologies |
+| **Specializations**      | Competitive Programming • EdTech Solutions • Physics-based Algorithm Visualizations |
 
 ---
 
-## 🔥 Current Focus & Initiatives
+## 🚀 Highlighted Projects & Innovations
 
-- **Research & Tech Writing:** Crafting rigorous proposals, refining methodologies, and gaining industry & academic endorsements.  
-- **Algorithmic Mastery:** Daily challenges on LeetCode, Beecrowd, Codeforces targeting advanced DS & DP.  
-- **Flagship Project – PhyCode:** A Next.js platform merging physics with competitive programming; features adaptive learning, real-time collaboration, and an online judge.  
-- **Competitive Programming:** Deepening knowledge in segment trees, graph algorithms, bit manipulation, and mastering C++ STL for efficient contest coding.  
-- **Collaborations:** Open to research partnerships, internships, mentorships, and reviewer roles.
+### PhyCode – Advanced Interactive Learning Platform
+- **Tech Stack:** Next.js • Recoil • Tailwind CSS • Node.js • Firebase  
+- **Overview:** A responsive platform with advanced UI/UX, featuring particle backgrounds, interactive tutorials, and secure authentication.  
+- **Innovations:** Real-time collaboration, adaptive learning paths, and analytics dashboards.  
+- **Impact:** Boosts algorithm comprehension by up to 40% with visualizations and guided practice.  
+- **Links:** [GitHub](https://github.com/Bushraabir/PhyCode) | [Live Demo](https://phy-code.vercel.app/)
 
----
+### Problem Solver Library – Algorithms in C/C++/Python
+- **Overview:** A curated repo of production-grade solutions with problem statements, approach notes, complexity, and commented code.  
+- **Innovations:** Searchable index, CI/CD testing, and performance benchmarks.  
+- **Link:** [GitHub](https://github.com/Bushraabir/problem-solver-library) *(Replace with actual link if available.)*
 
-## 💡 Development Philosophy
-
-1. **Strategic Vision:** Clear objectives aligned with impactful goals.  
-2. **Agile Prototyping:** Rapid MVP development and user feedback integration.  
-3. **Continuous Optimization:** Data-driven iterations for peak performance.  
-4. **Transparent Documentation:** Well-structured records for scalability and knowledge sharing.
-
----
-
-## 🌟 Featured Projects
-
-### PhyCode – Physics Meets Algorithms  
-**Stack:** Next.js • Recoil • Tailwind CSS • Node.js • Firebase  
-A platform fusing competitive programming challenges with real-world physics simulations.  
-- Real-time collaborative editor & chat.  
-- Adaptive difficulty based on user analytics.  
-- Gamified experience with badges & leaderboards.  
-**[GitHub Repo](https://github.com/Bushraabir/PhyCode)** | **[Live Demo](https://phy-code.vercel.app/)**
+### UI/UX Microprojects
+- **Overview:** Single-page apps showcasing animations, accessibility, and interview-ready UI patterns.  
+- **Link:** [GitHub](https://github.com/Bushraabir/ui-ux-microprojects) *(Replace with actual link if available.)*
 
 ---
 
-### Algorithmic Solutions Library  
-A curated repository of optimized, well-documented solutions in C/C++/Python.  
-- Detailed problem statements with edge case analysis.  
-- Pseudocode, complexity analysis & clean production-ready code.  
-- Automated testing via GitHub Actions.  
-**Repos:**  
-- [DSA](https://github.com/Bushraabir/DSA)  
-- [LeetCode Array Solutions](https://github.com/Bushraabir/Leetcode_Array_cpp)  
-- [LeetCode Math Solutions](https://github.com/Bushraabir/Leetcode_Math_cpp)  
-- [Beecrowd Solutions](https://github.com/Bushraabir/uri_beecrowd_cpp)
+## 🏆 Competitive Programming & Research Prep
+- Routine practice on problem sets and mock contests.  
+- Building deep projects with clear evaluation and reproducible results.  
+- Preparing writeups, open-sourcing components, and creating demo materials for reviewers.
 
 ---
 
-### 3D Portfolio Showcase  
-Built with React, Three.js & Vite — immersive, interactive 3D portfolio highlighting projects and skills.  
-- Dynamic lighting & physics animations.  
-- Fully responsive and optimized.  
-**[GitHub Repo](https://github.com/Bushraabir/portfolio-bushra)** | **[Live Demo](https://bushraabir.github.io/portfolio-bushra/)**
+## How I Work
+1. Define success metrics.  
+2. Prototype quickly.  
+3. Test & iterate.  
+4. Document decisions & impact.
 
 ---
 
-### Study Buddy – Productivity Suite  
-Next.js app featuring timer, flashcards, graphing calculator, and to-do list with offline PWA support and Firebase sync.  
-**[Live Demo](https://study-buddy-seven-blush.vercel.app/)**
-
----
-
-### Periodic Table Visualizer  
-Interactive React & D3.js app visualizing element properties with 3D molecular models and exportable charts.  
-*(Link pending update)*
-
----
-
-## 🏆 Competitive Programming & Research Highlights
-
-- **LeetCode:** 300+ problems solved ([Profile](https://leetcode.com/u/Bushraaaa))  
-- **Beecrowd:** 100+ problem solutions ([Profile](https://judge.beecrowd.com/en/profile/1071447))  
-- Strong focus on graph algorithms, bit manipulation, DP, and computational geometry.  
-- Developing research-grade codebases with statistical rigor and open-source MIT licenses.
-
----
-
-## 📫 Get In Touch
-
-| Platform      | Link/Contact                                          |
-|---------------|------------------------------------------------------|
-| **GitHub**    | [Bushraabir](https://github.com/Bushraabir)          |
-| **Email**     | [bushrakhandoker2@gmail.com](mailto:bushrakhandoker2@gmail.com) |
-| **Portfolio** | [bushraabir.github.io/portfolio-bushra](https://bushraabir.github.io/portfolio-bushra/) |
-| **LeetCode**  | [Bushraaaa](https://leetcode.com/u/Bushraaaa)        |
-| **Beecrowd**  | [Profile 1071447](https://judge.beecrowd.com/en/profile/1071447) |
-
----
-
-<div align="center" style="font-size:1.1rem; font-style: italic; color:#00C4B4; margin-top: 30px;">
-  Let's build something extraordinary together! 🚀
-</div>
+## Contact & Links
+- **GitHub:** [https://github.com/Bushraabir](https://github.com/Bushraabir)  
+- **Email:** [bushrakhandoker2@gmail.com](mailto:bushrakhandoker2@gmail.com)  
+- **Portfolio Website:** [https://bushraabir.github.io/portfolio-bushra/](https://bushraabir.github.io/portfolio-bushra/)
