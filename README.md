@@ -1,217 +1,287 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&pause=800&color=00C4B4&center=true&vCenter=true&width=650&height=80&lines=Hello+👋,+I'm+Bushra+Khandoker" alt="Typing SVG" />
+<!--
+  README.md
+  Enhanced with advanced UI/UX styles, subtle animations, and an attractive color palette using inline CSS and SVG gifs.
+  Color Palette:
+  - Primary Background: #0A2540 (Deep Navy)
+  - Accent: #00D1FF (Vibrant Cyan)
+  - Secondary Accent: #FF6B6B (Coral Pink)
+  - Text: #E0F7FA (Light Cyan)
+  - Highlights: #FFD700 (Gold Yellow)
+  - Gradients: From #1C1F2E to #2A2D3F for depth
+-->
+
+<div align="center" style="font-family: 'JetBrains Mono', monospace; margin-bottom: 40px; background: linear-gradient(135deg, #0A2540, #1C1F2E); padding: 30px; border-radius: 20px; box-shadow: 0 0 40px rgba(0, 209, 255, 0.3);">
+
+  <h1 style="
+    font-size: 3.2rem;
+    font-weight: 900;
+    color: #00D1FF;
+    letter-spacing: 0.18em;
+    text-shadow:
+      0 0 10px #00D1FF,
+      0 0 25px #00D1FF,
+      0 0 40px #00D1FF;
+    animation: glowPulse 2.5s ease-in-out infinite alternate;
+  ">
+    Hello <span style="font-size: 3.8rem;">👋</span>, I'm 
+    <span style="color: #FFD700; text-shadow: 0 0 10px #FFD700;">Bushra Khandoker</span>
+  </h1>
+
+  <p style="
+    font-style: italic; 
+    font-size: 1.4rem; 
+    max-width: 650px; 
+    color: #E0F7FA;
+    text-shadow: 1px 1px 4px rgba(0,209,255,0.5);
+    animation: fadeInUp 1.8s ease forwards;
+    opacity: 0;
+  ">
+    Fusing algorithms, physics, and web technologies to create transformative digital experiences.
+  </p>
+
 </div>
 
-###
-
-<p align="center">
-  <em>Fusing algorithms, physics, and web technologies to create transformative digital experiences.</em>
-</p>
-
-
-###
-
-<div align="center">
-  <a href="https://github.com/Bushraabir">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&style=flat-square" alt="GitHub Profile" />
-  </a>
-  <a href="https://github.com/Bushraabir">
-    <img src="https://img.shields.io/github/followers/Bushraabir?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Bushraabir?tab=stars">
-    <img src="https://img.shields.io/github/stars/Bushraabir?label=Stars&style=social" alt="GitHub Stars" />
-  </a>
-  <a href="https://leetcode.com/u/Bushraaaa">
-    <img src="https://img.shields.io/badge/LeetCode-Bushraaaa-FE7A16?logo=leetcode&style=flat-square" alt="LeetCode Profile" />
-  </a>
+<!-- GitHub Stats & Languages with enhanced hover zoom and shadow effects -->
+<div align="center" style="display: flex; justify-content: center; gap: 28px; flex-wrap: wrap; margin-bottom: 50px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Bushraabir&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" 
+    alt="GitHub stats" height="170" 
+    style="border-radius: 16px; transition: transform 0.4s ease, box-shadow 0.4s ease;" 
+    onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 0 25px #00D1FFaa';" 
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Bushraabir&layout=compact&langs_count=6&theme=radical&hide_border=true" 
+    alt="Top languages" height="170" 
+    style="border-radius: 16px; transition: transform 0.4s ease, box-shadow 0.4s ease;" 
+    onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 0 25px #00D1FFaa';" 
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"
+  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bushraabir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bushraabir&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=6&theme=midnight-purple&hide_border=true" height="160" alt="languages graph" />
+<!-- Streak & Coding Animation with border glow -->
+<div align="center" style="display: flex; justify-content: center; gap: 28px; flex-wrap: wrap; margin-bottom: 50px;">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Bushraabir&theme=highcontrast&hide_border=true&date_format=M+j%5B%2C+Y%5D" 
+    alt="Streak stats" height="170"
+    style="border-radius: 16px; box-shadow: 0 0 15px #FF6B6Baa; transition: box-shadow 0.3s ease;"
+    onmouseover="this.style.boxShadow='0 0 30px #FF6B6Bcc';"
+    onmouseout="this.style.boxShadow='0 0 15px #FF6B6Baa';"
+  />
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmc1ZHM4bmd0c3N6cXI0anpuOW5xeTN2aXE4NXJmMHlkd2xoazVkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fSvqyvXn1M3btN8sDh/giphy.gif" 
+    alt="coding animation" height="170"
+    style="border-radius: 16px; box-shadow: 0 0 15px #FFD700aa; transition: box-shadow 0.3s ease;"
+    onmouseover="this.style.boxShadow='0 0 30px #FFD700cc';"
+    onmouseout="this.style.boxShadow='0 0 15px #FFD700aa';"
+  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bushraabir&theme=highcontrast&hide_border=true&date_format=M+j%5B%2C+Y%5D" height="160" alt="streak graph" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmc1ZHM4bmd0c3N6cXI0anpuOW5xeTN2aXE4NXJmMHlkd2xoazVkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fSvqyvXn1M3btN8sDh/giphy.gif" height="160" alt="coding animation" />
+<!-- Activity Graph with smooth fade-in and border radius -->
+<div align="center" style="margin-bottom: 60px; animation: fadeIn 2.2s ease forwards; opacity: 0;">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Bushraabir&theme=dracula&hide_border=true&area=true" 
+    alt="activity graph" style="border-radius: 18px; box-shadow: 0 0 25px #00D1FF77;" 
+  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bushraabir&theme=dracula&hide_border=true&area=true" alt="activity graph" />
+<!-- Tech Stack Icons Container with enhanced gradient, padding, and hover scale -->
+<div align="center" style="
+  background: linear-gradient(135deg, #1C1F2E, #2A2D3F);
+  padding: 30px 50px;
+  border-radius: 24px;
+  box-shadow: 0 0 40px #00D1FF55 inset;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 22px;
+  margin-bottom: 50px;
+">
+  <!-- Individual icons with improved scale hover and glow -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="52" alt="C" title="C" style="transition: transform 0.4s ease, filter 0.4s ease;" onmouseover="this.style.transform='scale(1.25)'; this.style.filter='drop-shadow(0 0 10px #00D1FF)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='none';" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="52" alt="C++" title="C++" style="transition: transform 0.4s ease, filter 0.4s ease;" onmouseover="this.style.transform='scale(1.25)'; this.style.filter='drop-shadow(0 0 10px #00D1FF)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='none';" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="52" alt="Python" title="Python" style="transition: transform 0.4s ease, filter 0.4s ease;" onmouseover="this.style.transform='scale(1.25)'; this.style.filter='drop-shadow(0 0 10px #00D1FF)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='none';" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="52" alt="HTML5" title="HTML5" style="transition: transform 0.4s ease, filter 0.4s ease;" onmouseover="this.style.transform='scale(1.25)'; this.style.filter='drop-shadow(0 0 10px #00D1FF)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='none';" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="52" alt="CSS3" title="CSS3" style="transition: transform 0.4s ease, filter 0.4s ease;" onmouseover="this.style.transform='scale(1.25)'; this.style.filter='drop-shadow(0 0 10px #00D1FF)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='none';" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="52" alt="JavaScript" title="JavaScript" style="transition: transform 0.4s ease, filter 0.4s ease;" onmouseover="this.style.transform='scale(1.25)'; this.style.filter='drop-shadow(0 0 10px #00D1FF)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='none';" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="52" alt="React" title="React" style="transition: transform 0.4s ease, filter 0.4s ease;" onmouseover="this.style.transform='scale(1.25)'; this.style.filter='drop-shadow(0 0 10px #00D1FF)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='none';" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="52" alt="Tailwind CSS" title="Tailwind CSS" style="transition: transform 0.4s ease, filter 0.4s ease;" onmouseover="this.style.transform='scale(1.25)'; this.style.filter='drop-shadow(0 0 10px #00D1FF)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='none';" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="52" alt="Next.js" title="Next.js" style="transition: transform 0.4s ease, filter 0.4s ease;" onmouseover="this.style.transform='scale(1.25)'; this.style.filter='drop-shadow(0 0 10px #00D1FF)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='none';" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="52" alt="TypeScript" title="TypeScript" style="transition: transform 0.4s ease, filter 0.4s ease;" onmouseover="this.style.transform='scale(1.25)'; this.style.filter='drop-shadow(0 0 10px #00D1FF)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='none';" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="52" alt="Firebase" title="Firebase" style="transition: transform 0.4s ease, filter 0.4s ease;" onmouseover="this.style.transform='scale(1.25)'; this.style.filter='drop-shadow(0 0 10px #00D1FF)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='none';" />
 </div>
 
-###
-
-<div align="center" style="background: linear-gradient(135deg, #1a1a1a, #2c3e50); padding: 20px; border-radius: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo" title="C" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo" title="C++" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" title="Python" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" title="HTML5" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" title="CSS3" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" title="JavaScript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" title="React" />
-  <img width="15" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="45" alt="tailwindcss logo" title="Tailwind CSS" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo" title="Next.js" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo" title="TypeScript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo" title="Firebase" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bushraabir&theme=dracula&no-frame=true&margin-w=15&margin-h=15" alt="github trophies" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bushraabir&style=flat-square&color=00C4B4&label=Profile+Views" alt="profile views" />
+<!-- GitHub Trophies & Profile Views with advanced hover effects -->
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-bottom: 60px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bushraabir&theme=dracula&no-frame=true&margin-w=15&margin-h=15" alt="GitHub trophies" style="border-radius: 18px; box-shadow: 0 0 20px #FF6B6B77; transition: transform 0.4s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';" />
+  <img src="https://komarev.com/ghpvc/?username=Bushraabir&style=flat-square&color=00D1FF&label=Profile+Views" alt="profile views" style="border-radius: 14px; box-shadow: 0 0 12px #00D1FFbb; transition: transform 0.4s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';" />
 </div>
 
 ---
 
 ## 🌟 About Me
 
-I'm **Bushra Khandoker**, a visionary software engineer from Bangladesh with a passion for merging computational algorithms, physics-inspired problem-solving, and modern web development. My mission is to create transformative digital experiences that empower learners and developers alike. Driven by curiosity and a commitment to excellence, I specialize in crafting intuitive educational tools, optimizing complex algorithms, and delivering polished full-stack applications.
+<div style="max-width: 950px; margin: 0 auto; font-size: 1.15rem; line-height: 1.7; color: #E0F7FA; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #1C1F2E; padding: 25px; border-radius: 20px; box-shadow: 0 0 30px #00D1FF55;">
+  I'm <strong>Bushra Khandoker</strong>, a visionary software engineer from Bangladesh with a passion for merging computational algorithms, physics-inspired problem-solving, and modern web development. My mission is to create transformative digital experiences that empower learners and developers alike. Driven by curiosity and a commitment to excellence, I specialize in crafting intuitive educational tools, optimizing complex algorithms, and delivering polished full-stack applications.
+</div>
 
 ---
 
 ## 🛠 Technical Expertise & Skill Set
 
-| Category                  | Technologies & Competencies                                                                 |
-|---------------------------|---------------------------------------------------------------------------------------------|
-| **Languages**            | C • C++ • Python • JavaScript • TypeScript                                                  |
-| **Frontend**             | React.js • Next.js • Tailwind CSS • HTML5 • CSS3 • Framer Motion                            |
-| **Backend & Databases**  | Firebase • Node.js • REST APIs                                                              |
-| **State & UX Design**    | Recoil • Redux • Client-side auth flows • Micro-interactions • Accessibility (WCAG 2.1)     |
-| **Data Structures & Algorithms** | Linked Lists • Stacks • Queues • Trees • Graphs • Dynamic Programming • Greedy Algorithms • STL |
-| **Tools & Methodologies** | Git • GitHub • VS Code • Jest • Cypress • Agile • Scrum • CI/CD (GitHub Actions)            |
-| **Specializations**      | Competitive Programming • EdTech Solutions • Physics-based Algorithm Visualizations         |
-
----
-
-## 🔥 Current Focus & Initiatives
-
-- **Research & Applications:** Developing high-impact research proposals, refining technical writeups with clear methodologies, and securing endorsements from academic and industry mentors.
-- **Algorithmic Mastery:** Daily practice on platforms like LeetCode, Beecrowd, and Codeforces, focusing on advanced data structures, dynamic programming, and contest-style problem-solving.
-- **Flagship Project – PhyCode:** Leading the development of **PhyCode**, a Next.js-powered platform integrating physics with algorithmic learning, featuring real-time collaboration, adaptive learning paths, and an online judge system.
-- **Competitive Programming Excellence:** Deepening expertise in complex algorithms (e.g., segment trees, graph traversal, optimization techniques) and mastering STL for efficient coding.
-- **Opportunities Sought:** Open to research collaborations, internships with innovative tech firms, mentorship roles, and positions as a reviewer or teaching assistant.
-
----
-
-## 🚀 Featured Projects & Innovations
-
-### PhyCode – Physics Meets Algorithms
-
-**Tech Stack:** Next.js • Recoil • Tailwind CSS • Node.js • Firebase  
-**Overview:** A groundbreaking platform designed to fuse competitive programming with real-world physics applications. Features include an online judge, interactive problem sets with varying difficulty, and dynamic visualizations of physics-based algorithms (e.g., motion simulation, collision detection).  
-**Innovations:**  
-  - Real-time collaborative coding environment with WebSocket integration.  
-  - Adaptive difficulty scaling based on user performance analytics.  
-  - Gamified learning with progress badges and leaderboards.  
-**Impact:** Enhances comprehension of abstract algorithms by grounding them in physical contexts, with early testing showing up to 45% improvement in learner engagement.  
-**Links:** [GitHub Repository](https://github.com/Bushraabir/PhyCode) | [Live Demo](https://phy-code.vercel.app/)
-
-### Algorithmic Solutions Library
-
-A robust, open-source repository of optimized solutions to algorithmic problems across C, C++, and Python. Each entry includes:  
-  - Comprehensive problem statements with edge case analysis.  
-  - Detailed solution approaches with pseudocode and visualizations.  
-  - Time and space complexity breakdowns (Big O notation).  
-  - Clean, production-ready code with extensive comments.  
-**Innovations:**  
-  - Searchable database with tagged problem categories.  
-  - Automated testing via GitHub Actions for solution validation.  
-  - Comparative performance metrics across languages.  
-**Links:**  
-  - [DSA Repository](https://github.com/Bushraabir/DSA)  
-  - [LeetCode Array Solutions](https://github.com/Bushraabir/Leetcode_Array_cpp)  
-  - [LeetCode Math Solutions](https://github.com/Bushraabir/Leetcode_Math_cpp)  
-  - [Beecrowd Solutions](https://github.com/Bushraabir/uri_beecrowd_cpp)
-
-### 3D Portfolio Showcase
-
-A visually stunning, multi-page portfolio built with React, Three.js, and Vite, showcasing my skills, projects, and achievements in an immersive 3D environment.  
-**Features:**  
-  - Interactive 3D visualizations of project milestones.  
-  - Dynamic lighting and physics-based animations.  
-  - Responsive design optimized for desktop and mobile.  
-**Links:** [GitHub Repository](https://github.com/Bushraabir/portfolio-bushra) | [Live Demo](https://bushraabir.github.io/portfolio-bushra/)
-
-### Study Buddy – Productivity Suite
-
-A feature-rich study tool built with Next.js, offering a timer, flashcard generator, graphing calculator, and to-do list for students.  
-**Innovations:** Offline support via PWA, real-time sync with Firebase, and customizable study plans.  
-**Impact:** Streamlines study workflows, with 80% of beta users reporting improved productivity.  
-**Links:** [Live Demo](https://study-buddy-seven-blush.vercel.app/)
-
-### Periodic Table Visualizer
-
-An interactive web application visualizing trends and properties of periodic table elements through dynamic graphs and animations.  
-**Tech Stack:** React • D3.js • Tailwind CSS  
-**Features:** Real-time data filtering, 3D molecular visualizations, and exportable charts.  
-**Links:** *(Update with actual URL.)*
-
----
-
-## 🏆 Competitive Programming & Research Profile
-
-- **Competitive Programming:**  
-  - Active participant on [LeetCode](https://leetcode.com/u/Bushraaaa/) (solved 300+ problems) and [Beecrowd](https://judge.beecrowd.com/en/profile/1071447) (100+ solutions).  
-  - Regular practice with timed contests to hone problem-solving under pressure.  
-  - Expertise in advanced topics like graph algorithms, bit manipulation, and computational geometry.
-- **Research Preparation:**  
-  - Developing research-grade projects with rigorous evaluation frameworks (e.g., A/B testing, statistical analysis).  
-  - Open-sourcing reusable components with MIT licenses to foster collaboration.  
-  - Preparing polished demo materials for conferences and academic reviewers.
-
----
-
-## 💡 My Development Philosophy
-
-1. **Strategic Planning:** Define clear, measurable objectives aligned with project goals.  
-2. **Agile Prototyping:** Rapidly build and test MVPs to validate concepts early.  
-3. **Continuous Optimization:** Iterate through data-driven testing and user feedback loops.  
-4. **Transparent Documentation:** Maintain detailed records of decisions, challenges, and outcomes for future reference and scalability.
-
----
-
-## 📬 Connect with Me
-
-- **GitHub:** [Bushraabir](https://github.com/Bushraabir) – Dive into my code and contributions.  
-- **Email:** [bushrakhandoker2@gmail.com](mailto:bushrakhandoker2@gmail.com) – For professional inquiries and collaborations.  
-- **Portfolio:** [bushraabir.github.io/portfolio-bushra](https://bushraabir.github.io/portfolio-bushra/) – Explore my work in an interactive 3D space.  
-- **LeetCode:** [Bushraaaa](https://leetcode.com/u/Bushraaaa/) – View my problem-solving journey.  
-- **Beecrowd:** [Profile 1071447](https://judge.beecrowd.com/en/profile/1071447) – Check my competitive programming solutions.
-
-<div align="center">
-  <a href="https://github.com/Bushraabir">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&style=flat-square" alt="GitHub Profile" />
-  </a>
-  <a href="https://github.com/Bushraabir">
-    <img src="https://img.shields.io/github/followers/Bushraabir?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
+<div style="max-width: 950px; margin: 25px auto 50px auto;">
+<table style="width: 100%; border-collapse: separate; border-spacing: 0 8px; font-size: 1.05rem; color: #E0F7FA; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <thead>
+    <tr style="background: linear-gradient(135deg, #00D1FF, #FF6B6B); color: #0A2540;">
+      <th style="padding: 15px 18px; border-radius: 12px 0 0 12px; font-weight: 800;">Category</th>
+      <th style="padding: 15px 18px; border-radius: 0 12px 12px 0; font-weight: 800;">Technologies & Competencies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background: #2A2D3F;">
+      <td style="padding: 15px 18px; font-weight: 700;">Programming Languages</td>
+      <td style="padding: 15px 18px;">C • C++ • Python • JavaScript • TypeScript</td>
+    </tr>
+    <tr style="background: #1C1F2E;">
+      <td style="padding: 15px 18px; font-weight: 700;">Frontend Development</td>
+      <td style="padding: 15px 18px;">React.js • Next.js • Tailwind CSS • HTML5 • CSS3 • Framer Motion</td>
+    </tr>
+    <tr style="background: #2A2D3F;">
+      <td style="padding: 15px 18px; font-weight: 700;">Backend & Databases</td>
+      <td style="padding: 15px 18px;">Firebase • Node.js • REST APIs</td>
+    </tr>
+    <tr style="background: #1C1F2E;">
+      <td style="padding: 15px 18px; font-weight: 700;">State Management & UX</td>
+      <td style="padding: 15px 18px;">Recoil • Redux • Client-side auth flows • Micro-interactions • Accessibility (WCAG 2.1)</td>
+    </tr>
+    <tr style="background: #2A2D3F;">
+      <td style="padding: 15px 18px; font-weight: 700;">Data Structures & Algorithms (DSA/CP)</td>
+      <td style="padding: 15px 18px;">Linked Lists • Stacks • Queues • Trees • Graphs • Dynamic Programming • Greedy Algorithms • STL</td>
+    </tr>
+    <tr style="background: #1C1F2E;">
+      <td style="padding: 15px 18px; font-weight: 700;">Tools & Practices</td>
+      <td style="padding: 15px 18px;">Git • GitHub • VS Code • Unit & Integration Testing • Agile Methodologies</td>
+    </tr>
+    <tr style="background: #2A2D3F;">
+      <td style="padding: 15px 18px; font-weight: 700;">Specializations</td>
+      <td style="padding: 15px 18px;">Competitive Programming • EdTech Solutions • Physics-based Algorithm Visualizations</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 ---
 
-<div align="center">
-  <p><em>Let's build something extraordinary together!</em></p>
+## 🚀 Highlighted Projects & Innovations
+
+<div style="max-width: 950px; margin: 25px auto;">
+
+### PhyCode – Advanced Interactive Learning Platform
+
+<details style="margin-bottom: 1.2em; background: linear-gradient(135deg, #1C1F2E, #2A2D3F); border-radius: 16px; padding: 18px; color: #E0F7FA; box-shadow: 0 0 25px #00D1FF55; transition: box-shadow 0.3s ease;" onmouseover="this.style.boxShadow='0 0 40px #00D1FF88';" onmouseout="this.style.boxShadow='0 0 25px #00D1FF55';">
+  <summary style="font-size: 1.2rem; font-weight: 800; cursor: pointer; color: #FFD700;">Tech Stack • Overview • Innovations</summary>
+  <p style="margin: 10px 0 0 12px;">
+    <strong>Tech Stack:</strong> Next.js • Recoil • Tailwind CSS • Node.js • Firebase  
+  </p>
+  <p style="margin: 6px 0 0 12px;">
+    A responsive learning environment featuring advanced UI/UX elements like glowing particle backgrounds, interactive problem walkthroughs, and a polished authentication modal.
+  </p>
+  <ul style="margin: 8px 0 0 30px;">
+    <li>Integration of real-time collaboration features.</li>
+    <li>Adaptive learning paths based on user performance.</li>
+    <li>Comprehensive analytics dashboards for educators.</li>
+  </ul>
+  <p style="margin: 12px 0 0 12px; font-style: italic;">
+    Impact: Helps students learn algorithms through visualizations and guided practice, potentially increasing comprehension rates by up to 40% based on user feedback.
+  </p>
+  <p style="margin-top: 12px;">
+    <a href="https://github.com/Bushraabir/PhyCode" target="_blank" style="color: #00D1FF; text-decoration: none; font-weight: 600;">GitHub Repository</a> | 
+    <a href="https://phy-code.vercel.app/" target="_blank" style="color: #00D1FF; text-decoration: none; font-weight: 600;">Live Demo</a>
+  </p>
+</details>
+
+### Problem Solver Library – Algorithms in C/C++/Python
+
+<details style="margin-bottom: 1.2em; background: linear-gradient(135deg, #1C1F2E, #2A2D3F); border-radius: 16px; padding: 18px; color: #E0F7FA; box-shadow: 0 0 25px #00D1FF55; transition: box-shadow 0.3s ease;" onmouseover="this.style.boxShadow='0 0 40px #00D1FF88';" onmouseout="this.style.boxShadow='0 0 25px #00D1FF55';">
+  <summary style="font-size: 1.2rem; font-weight: 800; cursor: pointer; color: #FFD700;">Overview • Innovations</summary>
+  <p style="margin: 10px 0 0 12px;">
+    A curated repo of production-quality solutions. Each entry includes problem statement, approach notes, complexity, and well-commented code.
+  </p>
+  <ul style="margin: 8px 0 0 30px;">
+    <li>Searchable index and comparative performance benchmarks.</li>
+    <li>Integration with CI/CD for automated testing.</li>
+  </ul>
+  <p style="margin-top: 12px;">
+    <a href="https://github.com/Bushraabir/problem-solver-library" target="_blank" style="color: #00D1FF; text-decoration: none; font-weight: 600;">GitHub Repository</a> *(Replace with actual link if available.)*
+  </p>
+</details>
+
+### UI/UX Microprojects
+
+<details style="margin-bottom: 1.2em; background: linear-gradient(135deg, #1C1F2E, #2A2D3F); border-radius: 16px; padding: 18px; color: #E0F7FA; box-shadow: 0 0 25px #00D1FF55; transition: box-shadow 0.3s ease;" onmouseover="this.style.boxShadow='0 0 40px #00D1FF88';" onmouseout="this.style.boxShadow='0 0 25px #00D1FF55';">
+  <summary style="font-size: 1.2rem; font-weight: 800; cursor: pointer; color: #FFD700;">Overview</summary>
+  <p style="margin: 10px 0 0 12px;">
+    Single-page apps showcasing animations, accessibility best practices, and interview-ready UI patterns.
+  </p>
+  <p style="margin-top: 12px;">
+    <a href="https://github.com/Bushraabir/ui-ux-microprojects" target="_blank" style="color: #00D1FF; text-decoration: none; font-weight: 600;">GitHub Repository</a> *(Replace with actual link if available.)*
+  </p>
+</details>
+
 </div>
+
+---
+
+## 🏆 Competitive Programming & Research Prep
+
+<div style="max-width: 950px; margin: 25px auto; font-size: 1.15rem; line-height: 1.7; color: #E0F7FA; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #1C1F2E; padding: 25px; border-radius: 20px; box-shadow: 0 0 30px #00D1FF55;">
+  - Routine practice on problem sets and mock contests.  
+  - Building one deep project with clear evaluation and reproducible results.  
+  - Preparing writeups, open-sourcing key components, and creating demo materials for reviewers.
+</div>
+
+---
+
+## How I Work
+
+<div style="max-width: 950px; margin: 25px auto 50px auto; font-size: 1.15rem; color: #E0F7FA; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <ol>
+    <li><strong>Define success metrics.</strong></li>
+    <li><strong>Prototype quickly.</strong></li>
+    <li><strong>Test & iterate.</strong></li>
+    <li><strong>Document decisions & impact.</strong></li>
+  </ol>
+</div>
+
+---
+
+## Contact & Links
+
+<div style="max-width: 950px; margin: 25px auto; font-size: 1.15rem; color: #E0F7FA; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #1C1F2E; padding: 25px; border-radius: 20px; box-shadow: 0 0 30px #00D1FF55;">
+  - <strong>GitHub:</strong> <a href="https://github.com/Bushraabir" style="color: #00D1FF; text-decoration: none;">https://github.com/Bushraabir</a>  <br/>
+  - <strong>Email:</strong> <a href="mailto:bushrakhandoker2@gmail.com" style="color: #00D1FF; text-decoration: none;">bushrakhandoker2@gmail.com</a>  <br/>
+  - <strong>Portfolio Website:</strong> <a href="https://bushraabir.github.io/portfolio-bushra/" style="color: #00D1FF; text-decoration: none;">https://bushraabir.github.io/portfolio-bushra/</a>
+</div>
+
+<!-- Animations -->
+<style>
+  @keyframes glowPulse {
+    0% { text-shadow: 0 0 10px #00D1FF, 0 0 25px #00D1FF, 0 0 40px #00D1FF; }
+    100% { text-shadow: 0 0 20px #00D1FF, 0 0 50px #00D1FF, 0 0 80px #00D1FF; }
+  }
+  @keyframes fadeInUp {
+    0% {
+      opacity: 0;
+      transform: translateY(25px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  @keyframes fadeIn {
+    to {
+      opacity: 1;
+    }
+  }
+</style>
