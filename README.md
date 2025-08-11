@@ -11,11 +11,11 @@
 
 ###
 
-<div>
+<div align="center">
 
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bushraabir&theme=radical" height="150" alt="stats graph"  />
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  <img  height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bushraabir&theme=react-dark" />
@@ -52,7 +52,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Bushraabir/Bushraabir/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Bushraabir/Bushraabir/output/another.svg" alt="Another animation" />
+
 
 ###
 
